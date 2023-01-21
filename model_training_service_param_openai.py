@@ -1,7 +1,7 @@
 import openai
 
 
-def set_openai_key(key, org='org-AnPp4ukSu2cNBIlkLonuFUXK'):
+def set_openai_key(key, org='Enter organisation key here'):
     """Sets OpenAI key."""
     openai.organization = org
     openai.api_key = key
