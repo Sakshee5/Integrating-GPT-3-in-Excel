@@ -1,7 +1,9 @@
 # Integrating-GPT-3-in-Excel
+Created an editable user-defined Excel function ask_GPT() capable of interacting directly with the OpenAI API for output.
+
+https://user-images.githubusercontent.com/69002060/213871946-13cc1ed8-dbbc-4e07-8fad-a8c795aff87a.mp4
 
 P.S. I do know how to screen record on a PC but that was just not possible. Apologies for the bad video quality :)
-Created an editable user-defined Excel function ask_gpt() capable of interacting directly with the OpenAI API for output.
 
 Almost everyone is talking about ChatGPT and it's multitude of real-life use-cases. The possibilities of OpenAI's GPT is endless and this repository is all about bringing that power to excel. In the past few weeks, there has been a lot of buzz around the GPT Google Sheet Add-in but what if you want to work on sensitive data on a local file? 
 
